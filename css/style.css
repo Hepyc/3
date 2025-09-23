@@ -1,16 +1,14 @@
 .navbar {
     background-color: gray;
 }
-.baza-img-card {
-    width: 60%;
-    border-radius: 50%;
-    box-shadow: rgba(0, 0, 0, 0.2);
-    padding: 1em;
-}
 .card {
     border-radius: 1em;
     text-align: center;
 }
 .card:hover {
     background-color: rgb(78, 95, 248);
+}
+.suda {
+    margin-left: 20%;
+    margin-right: 20%;
 }
