@@ -8,7 +8,9 @@
 .card:hover {
     background-color: rgb(78, 95, 248);
 }
-.suda {
-    margin-left: 20%;
-    margin-right: 20%;
+.cardss {
+    justify-self: center;
+}
+p {
+    justify-content: center;
 }
